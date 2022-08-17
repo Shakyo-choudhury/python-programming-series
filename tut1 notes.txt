@@ -1,0 +1,22 @@
+Python was created by Guido Van Rossum in Feb 1991. Python is a high level, interpreted, genral-purpose programming language.
+Python used in many fields such as Web Development (Django and Flask), Machine Learning, Artificial Intelligence, Data Science, Natural Language processing (NLP) and many other fields.
+Code Editor used -  VS CODE
+
+
+our first program - print() function
+print() function allows us to display whatever is written in it. 
+In this function, whatever we pass in parenthesis () in a double quote or single quote gets printed (as it is) in the terminal.
+print() is a function in Python that allows us to display whatever is written inside it. In case an operation is supplied to print, the value of the expression after the evaluation is printed in the terminal.
+ 
+There are two types of comments in Python Language -:
+
+Single Line Comment
+Multi-Line Comment
+
+Single Line Comment: Single Line comments are the comments which are written in a single line, i.e., they occupy the space of a single line.
+
+We use # (hash/pound to write single-line comments).
+
+Multi-Line Comment: Multi-Line comments are the comments which are created by using multiple lines, i.e., they occupy more than one line in a program.
+
+We use ' ' '….. Comment ….' ' ' for writing multi-line comments in Python (Use lines enclosed with three quotes for writing multi-line comments). 
